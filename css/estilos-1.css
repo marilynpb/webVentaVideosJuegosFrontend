@@ -1,0 +1,117 @@
+body{
+    background-color:#E11364 ;
+}
+
+header{
+    background-color: #BC105C;
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600;
+    border: 5px solid white;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+
+.container{
+
+    background-color: #BC105C;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    text-align:left;
+    padding: 10px;
+    color: white;
+}
+
+.container h2{
+    margin: 0px auto;
+    padding-top: 20px;
+    width: 95%;
+}
+div .div1{
+    margin-top: 20px;
+}
+.div1{
+    border-radius: 5px;
+    width: 95%;
+    margin: 10px auto;
+    padding-top: 0.5%;
+    margin-top: 5%;
+    background-color: white;
+    color: #A74565;
+    text-align: center;
+}
+.div1 h3 {
+
+    text-align:right;
+    border-bottom:solid 1px grey;
+    width: 95%;
+    margin: 10px auto;
+}
+.div1 img{
+    width: 95%;
+}
+
+.div1 h4{
+    color: black;
+    text-align: left;
+    margin: 5px auto;
+    width: 95%;
+}
+
+.div1 p {
+    color: black;
+    text-align: left;
+    margin: 10px auto;
+    width: 95%;
+}
+.comprar{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 10%;
+    margin-bottom: 10px;
+    color: white;
+    background-color:#018900 ;
+}
+
+.comprar:hover{
+    background-color: #E11364 ;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+h5{
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+nav img{
+    float: left;
+}
+
+footer{
+    background-color: #E96093;
+    color: white;
+    text-align: center;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: small;
+}
+
+
+section img{
+    width: 100%;
+}
